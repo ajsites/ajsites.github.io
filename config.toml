@@ -19,7 +19,7 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Alex de...."
+  name = "Alex deMeurers"
   description = "FILM MAKER"
 
   # Link custom assets relative to /static
@@ -48,12 +48,12 @@ disqusShortname = ""
       url = "#"
 
     [[params.navigation.links]]
-      name = "Blogs"
+      name = "Portfolio"
       url = "blogs"
 
     [[params.navigation.links]]
-      name = "Generic Blog"
-      url = "blogs/ipsum"
+      name = "Specific Portfolio Page"
+      url = "blogs/complexified"
 
     [[params.navigation.links]]
       name = "Elements"
@@ -66,15 +66,15 @@ disqusShortname = ""
     #    name = "NameOfLink"
     #    url = "UrlOfLink"
 
-    # Button Style 1
-    [[params.navigation.button1]]
-      name = "Get Started"
-      url = "blogs"
+    # # Button Style 1
+    # [[params.navigation.button1]]
+    #   name = "Get Started"
+    #   url = "blogs"
 
-    # Button Style 2
-    [[params.navigation.button2]]
-      name = "Log In"
-      url = "#"
+    # # Button Style 2
+    # [[params.navigation.button2]]
+    #   name = "Log In"
+    #   url = "#"
 
 
   # Banner section
