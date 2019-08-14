@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://ajsites.github.io/"
 languageCode = "en-us"
 title = "My Small Hugo Site"
 theme = "forty"
@@ -93,18 +93,18 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "Filmmaking Complexified"
-      subtitle = "Ipsum Dolor Sit Amet"
+      subtitle = "Sample Subtitle"
       image = "blogs/filmmaker.jpg"
       url = "blogs/complexified"
 
     [[params.tiles.showcase]]
-      title = "Tempus"
+      title = "Director Reel"
       subtitle = "Feugiat Amet Tempus"
       image = "blogs/drone.jpg"
       url = "blogs/tempus"
 
     [[params.tiles.showcase]]
-      title = "Magna"
+      title = "Gear"
       subtitle = "Lorem Etiam Nullam"
       image = "blogs/adventure.jpg"
       url = "blogs/magna"
@@ -126,7 +126,7 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Videography with a human touch"
+    title = "Film everythi"
     subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
     Mauris aliquet magna magna sed nunc rhoncus pharetra. 
     Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
