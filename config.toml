@@ -1,4 +1,4 @@
-baseURL = "http://ajsites.github.io/"
+baseURL = "https://ajsites.github.io/"
 languageCode = "en-us"
 title = "My Small Hugo Site"
 theme = "forty"
